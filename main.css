@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0 auto;
+}
+header h1 {
+    font-family: 'PT Serif', serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+    padding-top: 71px;
+    padding-left: 12px;
+}
+main {
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.text h2 {
+font-family: 'Poppins', sans-serif;
+font-size: 18px;
+padding-bottom: 10px;
+padding-left: 12px;
+color: #000000;
+
+}
+.text p {
+font-family: 'Poppins', sans-serif;
+font-size: 14px;
+font-weight: 400;
+padding-bottom: 50px;
+color: #000000;
+padding-left: 12px;
+padding-right: 12px;
+
+}
+.carousel_layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap:40px;
+    grid-row-gap: 10px;
+    padding: 0 19px;
+
+}
+
+.card img{
+    width: 100%;
+    height: auto;
+}
+.card:nth-child(2n) {
+    padding-top:50px;
+}
+
+.name {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000000;
+    padding-top: 10px;
+}
+.job {
+    font-family: 'PT Serif', serif;
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: uppercase;
+    transform: rotate(90deg);
+    position: relative;
+    right: -115px;
+    top:-215px;
+    display:inline-block;
+}
+footer {
+    text-align: center;
+    padding-bottom: 20px;
+    color: #A9A9A9;
+    ;
+}
+
+
