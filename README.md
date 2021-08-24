@@ -37,7 +37,7 @@
 ## Overview
 
 ![screenshot](./images/screen_desktop.png)
-![screenshot](./images/screen_mobile.png)
+![screenshot](./images/screen_mobile_b.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
